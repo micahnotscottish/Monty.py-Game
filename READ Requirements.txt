@@ -1,4 +1,0 @@
-# Running requirements
-# pygame
-# ffpyplayer
-# pymediainfo
